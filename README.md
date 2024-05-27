@@ -81,7 +81,7 @@ allprojects {
 [![](https://jitpack.io/v/ITxiaoguang/BiometricHelper.svg)](https://jitpack.io/#ITxiaoguang/BiometricHelper)
 ``` gradle
 dependencies {
-    implementation 'com.github.ITxiaoguang:BiometricHelper:xxx'
+    implementation 'com.github.ITxiaoguang:BiometricHelper:1.0.1'
 }
 ```
 
